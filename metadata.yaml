@@ -1,0 +1,44 @@
+_repo: Kamillan-avioliitto_66105
+_version: 0.0.1
+alternative_title: Camillas Äktenskap. Finnish
+contributor:
+  translator:
+    agent_name: Piirinen, E.
+    aliases:
+    - Piirinen, Eelu
+    - Marjamaa, Vaino
+    - Piirinen, Erland
+    - Suonpera, Lauri
+    - Marjamaa, Väinö
+    - Suonperä, Lauri
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '49967'
+    url: http://www.gutenberg.org/2009/agents/49967
+    wikipedia: https://fi.wikipedia.org/wiki/E._Piirinen
+creator:
+  author:
+    agent_name: Wägner, Elin
+    alias: Wagner, Elin
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '52853'
+    url: http://www.gutenberg.org/2009/agents/52853
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Elin_W%C3%A4gner
+    - https://sv.wikipedia.org/wiki/Elin_W%C3%A4gner
+    - https://en.wikipedia.org/wiki/Elin_W%C3%A4gner
+description: ''
+gutenberg_issued: '2021-08-22'
+identifiers:
+  gutenberg: '66105'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- GITenberg
+title: Kamillan avioliitto
+url: http://www.gutenberg.org/ebooks/66105
