@@ -1,5 +1,5 @@
 _repo: Kamillan-avioliitto_66105
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Camillas Äktenskap. Finnish
 contributor:
   translator:
@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '49967'
     url: http://www.gutenberg.org/2009/agents/49967
     wikipedia: https://fi.wikipedia.org/wiki/E._Piirinen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wägner, Elin
@@ -29,6 +32,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Elin_W%C3%A4gner
     - https://en.wikipedia.org/wiki/Elin_W%C3%A4gner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66105#Kamillan-avioliitto
 gutenberg_issued: '2021-08-22'
 identifiers:
   gutenberg: '66105'
